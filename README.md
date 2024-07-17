@@ -1,1 +1,1 @@
-hanriver_pc
+한강술래 적응형웹(pc.ver)
